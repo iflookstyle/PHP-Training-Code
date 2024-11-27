@@ -1,0 +1,19 @@
+# Ignore the XAMPP environment files
+/xampp/
+/tmp/
+/logs/
+
+# Ignore Composer vendor directory (for PHP projects)
+/vendor/
+
+# Ignore IDE config files
+.idea/
+.vscode/
+
+# Ignore Node.js dependencies (if you're using them)
+/node_modules/
+
+# Ignore compiled files
+*.log
+*.bak
+*.swp
